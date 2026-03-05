@@ -46,7 +46,7 @@ Puedes usar una tabla como esta:
 | 2 | Botón cancelar junto al enviar | UX | Botones al final | Puede provocar errores al usuario |
 | 3 | Confirmar correo es opcional | Validación | Campo email | Puede causar inconsistencias |
 
-Se recomienda identificar **al menos 10–12 problemas**.
+Se recomienda identificar **al menos 10 problemas**.
 
 ---
 
